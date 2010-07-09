@@ -3,6 +3,4 @@ for most common applications. It includes the components neccessary for basic
 layers and behaviors, and omits many of the less commonly used features that
 drive up the file size.
 
-Built from OpenLayers SVN Trunk
-Last Changed Rev: 10366 
-Last Changed Date: 2010-05-28 08:30:52 -0400 (Fri, 28 May 2010)
+Built from OpenLayers 2.91
